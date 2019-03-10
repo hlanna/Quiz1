@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "1.Neil Armstrong"; ObjectID = "6SU-0c-Jeq"; */
+"6SU-0c-Jeq.normalTitle" = "1.Neil Armstrong";
+
+/* Class = "UIButton"; normalTitle = "X.Christer Fuglesang"; ObjectID = "Q88-FL-APD"; */
+"Q88-FL-APD.normalTitle" = "X.Christer Fuglesang";
+
+/* Class = "UILabel"; text = "Who was the first person on the moon?"; ObjectID = "bSx-14-c1p"; */
+"bSx-14-c1p.text" = "Who was the first person on the moon?";
+
+/* Class = "UILabel"; text = "Score: 999"; ObjectID = "cQe-iD-Hi1"; */
+"cQe-iD-Hi1.text" = "Score: 999";
+
+/* Class = "UIButton"; normalTitle = "2.Valentina Tereshkova"; ObjectID = "eFl-Kp-zLj"; */
+"eFl-Kp-zLj.normalTitle" = "2.Valentina Tereshkova";
+
+/* Class = "UILabel"; text = "XX/15"; ObjectID = "zGL-R7-36v"; */
+"zGL-R7-36v.text" = "XX/15";
